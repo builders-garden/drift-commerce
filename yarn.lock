@@ -179,10 +179,10 @@
     "@babel/helper-validator-identifier" "^7.24.7"
     to-fast-properties "^2.0.0"
 
-"@buildersgarden/drift@^0.0.16":
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/@buildersgarden/drift/-/drift-0.0.16.tgz#033d2572e7a8177b8b51c6cf78bb133b0dbf3575"
-  integrity sha512-FMY2jxgVnwOwoBWer7nhteu6pSrmJS9xL+eYRvaBRuEFzjqwC2JHTtBJclo3gX/F87h25QsoHDi2S/hp3mnn0A==
+"@buildersgarden/drift@^0.0.17":
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/@buildersgarden/drift/-/drift-0.0.17.tgz#c74251c4fb22de1cdb0f41edf6d0589f52291ae3"
+  integrity sha512-7shkJQCUDyFbdsU17K7c8xJVmTD4GO0RAQTEfs0AmxKOAAbMNNTcMmTSMS1tTk3WqkDodNA5pKbhfmMP5FyebQ==
   dependencies:
     "@decent.xyz/box-common" "^3.3.9"
     "@decent.xyz/box-hooks" "^3.3.9"
